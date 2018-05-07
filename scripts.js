@@ -12,7 +12,7 @@ if(setup==true) //adds scripting abilities to link creation page if a link is no
 	var title
 	var watched_title
 	var watched_urls
-	var base_url = "http://nicolasmccurdy.github.io/apps/mtb/index.html"
+	var base_url = "https://nickmccurdy.com/link_tools/index.html"
 	var link_reg = /((http|https|ftp|ftps)\:\/\/)?[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?/gi
 	
 	function selectAll(field)
